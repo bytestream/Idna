@@ -1,5 +1,5 @@
 <?php
-class IdnaTest extends \PHPUnit_Framework_TestCase
+class IdnaTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * @dataProvider domainNamesProvider
